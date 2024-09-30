@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 python -m score_extraction.get_entropies --models gpt2 gpt2-large mistral-instruct mistral-base phi2 wizardlm
